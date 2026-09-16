@@ -1,0 +1,6 @@
+{
+  "name": "配信筋トレギフトカウンター",
+  "description": "ライブ配信中にギフトに応じて筋トレ回数（ノルマ・消化済み・残り）を瞬時に計算・カウント・表示できるアプリ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
